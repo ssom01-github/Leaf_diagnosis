@@ -6,7 +6,7 @@ applied. It takes a picture of the plant's leaf and then analyses the data using
 Diseases typically develop in the leaves, fruits, and buds. When a plant becomes sick, the crops and fruits and vegetables may be wasted or damaged. 
 These diseases, in addition to being detrimental to the plant, can also contribute to the spread of new infections. It's critical to recognise the disease ahead 
 of time and take the appropriate actions to keep it from spreading to other trees. The purpose of this work is to create a system that can detect plant illnesses
-by combining image processing with leaf image categorization. We're utilising a Convolutional Neural Network to complete this challenge.
+by combining image processing with leaf image categorization and suggests the remedies corresponding to that disease. We're utilising a Convolutional Neural Network to complete this challenge.
 
 
 
